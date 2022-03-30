@@ -9,7 +9,7 @@ In the Philippines, the first recorded case of COVID-19 was by a 38-year-old Chi
 
 But in response to the pandemic, companies started to create a vaccine to help reduce the number of cases and deaths of people around the world due to COVID-19. Companies like Pfizer, Moderna, and AstraZeneca formulated vaccines and helped people around the world. As of now, 58.11 percent of the total population in our country has received their first and second doses. It is still far from the target of vaccinating at least 80% of the population[^4]. 
 
-The goal of this analysis is to examine the current COVID-19 data in the Philippines as well as the vaccination status in our country. A dataset from Our World in Data will be used to obtain all of the information required to analyze the current trend of daily COVID-19 cases as well as the vaccination rollout in our country. The data will be used to reassure some Filipinos who are still afraid of getting vaccinated, as well as to provide an analysis of how getting vaccinated will help to reduce overall cases in the country.
+The goal of this analysis is to examine the current COVID-19 data in the Philippines as well as the vaccination status in our country. A dataset from [Our World in Data](https://ourworldindata.org/coronavirus/country/philippines) will be used to obtain all of the information required to analyze the current trend of daily COVID-19 cases as well as the vaccination rollout in our country. The data will be used to encourage some Filipinos who are still afraid of getting vaccinated to get vaccinated, as well as to provide an analysis of how getting vaccinated will help to reduce overall cases in the country.
 
 ## Problem Statement
 
