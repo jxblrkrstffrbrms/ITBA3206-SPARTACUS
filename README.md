@@ -21,7 +21,7 @@ It is common knowledge that the pandemic has massively affected the societal ele
 
 ## Methods
 
--content
+We, the researchers, need to conduct a survey among individuals in the Philippines aged 18 and above. Participants will be interviewed from various locations in the Philippines, as well as from varied age groups, socioeconomic backgrounds, and vaccination status and opinions. We were able to achieve maximum variation sampling, which seeks to capture as many different population situations as possible, as a result of this. The platforms we'll utilize are online, such as Google Forms, zoom or via phone call. Questions  about COVID-19, vaccines, and risk perceptions and behaviors were included in the interview guide. The interview will be digitally recorded, verbatim transcribed, and translated into Filipino or English. The research team examined linguistic and conceptual equivalence in the translated materials since they are native or fluent in English or Tagalog.
 
 ## Expected Output
 
