@@ -13,7 +13,7 @@ The goal of this analysis is to examine the current COVID-19 data in the Philipp
 
 ## Problem Statement
 
--content
+Global pandemic has affected the lives of many people in these past years. It has been difficult for researchers to examine and observe the day-to-day progress of Covid-19 here in our country. These statistics plays a major role in fighting and helping people to ease their panics with much reliable sources of information. Collecting information from large hospitals is a crucial step and requires a thorough management of data. Distinguishing the suspected and confirmed Covid-19 cases are needed to be collected and stored in a standardized way. In addition to the health impact that Covid-19 has brought to many people’s lives, the newly formulated vaccines was mostly rejected by a lot of people because of their significant concerns and uncertainty among the branded vaccines. They have safety concerns and other personal beliefs that made them hesitant in accepting the Covid-19 vaccines. 
 
 ## Significance of the Proposed Project
 
