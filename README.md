@@ -17,7 +17,7 @@ The goal of this analysis is to examine the current COVID-19 data in the Philipp
 
 ## Significance of the Proposed Project
 
--content
+It is common knowledge that the pandemic has massively affected the societal elements for the past 2 years. However, COVID-19 is still somehow in the circulation given how long it has been. The importance of this study is that there may be underlying implicative factors that help COVID-19 circulate that may arouse in descriptive analysis. The society has only resolved into brute-force solutions and medical agendas. Patterns and unobservable factors are what the researchers are aiming for. In light of solving the pandemic's occurrence, vaccinations has been a focal part at this stage. However, vaccinations are only encouraged and not forced. Fortunately, there are open data that is present now that researchers could use which is related to COVID-19 along with its present vaccinations. That is why the study of whether the vaccinations are working and how long before it takes for the whole population to get vaccinated.
 
 ## Methods
 
