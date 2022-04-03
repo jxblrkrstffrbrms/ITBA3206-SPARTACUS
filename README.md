@@ -25,10 +25,13 @@ We, the researchers, need to conduct a survey among individuals in the Philippin
 
 ## Expected Output
 
--content
+The coronavirus outbreak has posed a threat to people's lives, but this has been mitigated by the availability of various vaccine brands. Vaccination, in addition to wearing face masks and maintaining physical distance, is a critical component in preventing the spread of the Covid-19 virus. Vaccination has made significant contributions to the reduction of the burden of various infectious and spread diseases. Vaccines were shown to prevent a large number of deaths and diseases around the world. Vaccines Spreading credible information to the public can easily persuade them to get vaccinated against Covid-19. A national vaccination day was observed by the government to recognize and appreciate the importance and necessity of getting vaccinated. Vaccination caravans would be organized to assist healthcare workers and the government in this regard.
 
 #### References Used
 [^1]: Ciotti, M., Ciccozzi, M., Terrinoni, A., Jiang, W. C., Wang, C. B., & Bernardini, S. (2020). The COVID-19 pandemic. Critical reviews in clinical laboratory sciences, 57(6), 365-388.
 [^2]: https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Philippines.
 [^3]: https://www.worldometers.info/coronavirus/country/philippines/.
 [^4]: https://www.rappler.com/newsbreak/data-documents/tracker-covid-19-vaccines-distribution-philippines/.
+[^5] https://www.frontiersin.org/articles/10.3389/fpubh.2021.632914/full
+[^6] https://www.indiatoday.in/information/story/national-vaccination-day-2022-date-history-significance-theme-and-quotes-1925909-2022-03-16
+[^7] https://tools.niehs.nih.gov/wetp/index.cfm?id=2592
