@@ -32,4 +32,7 @@ The coronavirus outbreak has posed a threat to people's lives, but this has been
 [^2]: https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Philippines.
 [^3]: https://www.worldometers.info/coronavirus/country/philippines/.
 [^4]: https://www.rappler.com/newsbreak/data-documents/tracker-covid-19-vaccines-distribution-philippines/.
+[^5]: https://www.frontiersin.org/articles/10.3389/fpubh.2021.632914/full
+[^6]: https://www.indiatoday.in/information/story/national-vaccination-day-2022-date-history-significance-theme-and-quotes-1925909-2022-03-16
+[^7]: https://tools.niehs.nih.gov/wetp/index.cfm?id=2592
 
