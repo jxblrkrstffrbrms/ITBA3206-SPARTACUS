@@ -35,6 +35,18 @@ The main issue to be tackled in this project is the number of vaccinated individ
 
 The coronavirus outbreak has posed a threat to people's lives, but this has been mitigated by the availability of various vaccine brands. Vaccination, in addition to wearing face masks and maintaining physical distance, is a critical component in preventing the spread of the Covid-19 virus[^5]. Vaccination has made significant contributions to the reduction of the burden of various infectious and spread diseases. Vaccines were shown to prevent a large number of deaths and diseases around the world. And spreading credible information to the public can easily persuade them to get vaccinated against Covid-19. This research plans to produce a data analysis regarding the current COVID-19 situation in our country. Datasets from [Our World in Data](https://ourworldindata.org/coronavirus/country/philippines) will be used in order to get all the important information. The data will then be used to further persuade the unvaccinated individuals to get their vaccinations. A national vaccination day was already observed by the government to recognize and appreciate the importance and necessity of getting vaccinated[^6]. In addition to this, vaccination caravans can be organized to assist healthcare workers and the government in this regard. Also, planning of having a seminar in each barangay or city can be done if there is a large amount of individuals not yet vaccinated[^7].
 
+### Contributors
+
+Abacan, John Ronan ( ITBA 3207)
+
+Balitaan, Virginia Flor ( ITBA 3206)
+
+Llabres, Mary Joyce O. ( ITBA 3206)
+
+Molino, Jeanela Myca H. ( ITBA 3206)
+
+Ramos, Jax Blaire Kristoffer B. ( ITBA 3206)
+
 #### References Used
 [^1]: Ciotti, M., Ciccozzi, M., Terrinoni, A., Jiang, W. C., Wang, C. B., & Bernardini, S. (2020). The COVID-19 pandemic. Critical reviews in clinical laboratory sciences, 57(6), 365-388.
 [^2]: https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Philippines.
