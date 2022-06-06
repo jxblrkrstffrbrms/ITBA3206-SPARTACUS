@@ -65,6 +65,12 @@ Ramos, Jax Blaire Kristoffer B. ( ITBA 3206)
 
 <img src="ramos.png" width="250" height="250">
 
+## Video Presentation
+
+Click the attached Google Drive link in order to access the live and recorded presentation of this analysis.
+
+https://drive.google.com/drive/folders/1r7Y-TES_MCiDEj37xnstSUYcj5Of7f_7?usp=sharing
+
 
 ### References Used
 [^1]: Ciotti, M., Ciccozzi, M., Terrinoni, A., Jiang, W. C., Wang, C. B., & Bernardini, S. (2020). The COVID-19 pandemic. Critical reviews in clinical laboratory sciences, 57(6), 365-388.
